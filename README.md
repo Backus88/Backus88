@@ -9,7 +9,7 @@
 ✍️ &nbsp;In my free time, I take care of two dogs, develop some personal projects and read some books/novels.\
 ✉️ &nbsp;You can shoot me an email at lf.mc.almeida@gmail.com! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/Backus88/Backus88/blob/main/how-to-start.gif?raw=true" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
