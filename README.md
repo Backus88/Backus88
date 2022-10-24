@@ -7,7 +7,7 @@
 🎓 &nbsp;I'm finishing Electronic and Computer Engineering at UFRJ.\
 🌱 &nbsp;I'm on track for learning more about Web development, Machine Learning and DevOps.\
 ✍️ &nbsp;In my free time, I take care of two dogs, develop some personal projects and read some books/novels.\
-✉️ &nbsp;You can shoot me an email at lf.mc.almeida@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at lf.mc.almeida@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
